@@ -3,14 +3,15 @@
 Frontend developer based in Stockholm 🇸🇪  
 I build responsive, elegant, and fast UIs—with or without Figma.  
 I care about clarity, consistency, and moving fast with clean code.
+
 <img width="588" alt="Ekran Resmi 2025-04-30 13 29 01" src="https://github.com/user-attachments/assets/65df56b9-fe20-49af-a3d8-c05d53992846" />
 
 ---
 
 ## PROFESIONAL SKILLS
-• Frontend Development: React, Next.js, JavaScript, HTML5, CSS3, Tailwind, Bootstrap, Vue.js, AngularJS, TypeScript
-• Backend and Databases: Node.js, Express.js, Supabase, MySQL, PostgreSQL
-• Tools and Practices: Git, GitHub, Agile, Scrum, Jira, Figma   
+- **Frontend Development:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind, Bootstrap, Vue.js, AngularJS, TypeScript
+- **Backend and Databases:** Node.js, Express.js, Supabase, MySQL, PostgreSQL
+- **Tools and Practices:** Git, GitHub, Agile, Scrum, Jira, Figma   
 - **AI & APIs:** OpenAI API, schema-driven UI, prompt-based flows  
 - **Design Mindset:** Typography, spacing, hierarchy. UI as a system.
 
@@ -27,7 +28,7 @@ I care about clarity, consistency, and moving fast with clean code.
 | **Study English App** | Flashcards + user-auth English learning app | [📚 Try it](https://bedirgcmz-study-english.netlify.app/) |
 | **Todo App** | Dark mode todo list with Supabase | [✅ Try it](https://todo-list-bedirgcmz.netlify.app/) |
 | **Find Number Game** | JS-based number-finding game for kids | [🎯 Play](https://bedirgcmz-find-number.netlify.app/) |
-| **Portfolio** | Personal website  |  (https://bedirgocmez.com) |
+| **Portfolio** | Personal website  |  [🔗 Visit](https://bedirgocmez.com) |
 > I design most interfaces directly in code—thinking in components, layout, and motion.
 
 ---
