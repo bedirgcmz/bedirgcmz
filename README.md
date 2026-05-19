@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bedir Gocmez
 
-Frontend developer based in Stockholm 🇸🇪  
+Fullstack / Frontend developer based in Stockholm 🇸🇪  
 I build responsive, elegant, and fast UIs—with or without Figma.  
 I care about clarity, consistency, and moving fast with clean code.
 
