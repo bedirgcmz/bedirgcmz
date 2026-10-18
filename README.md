@@ -4,7 +4,7 @@ Fullstack / Frontend developer based in Stockholm 🇸🇪
 I build responsive, elegant, and fast UIs—with or without Figma.  
 I care about clarity, consistency, and moving fast with clean code.
 
-<img width="588" alt="Ekran Resmi 2025-04-30 13 29 01" src="https://github.com/user-attachments/assets/65df56b9-fe20-49af-a3d8-c05d53992846" />
+<img width="588" alt="Bedir Gocmez Portfolio" src="./portfolio-banner.png" />
 
 ---
 
